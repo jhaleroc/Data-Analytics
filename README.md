@@ -1,3 +1,3 @@
 # Data-Analytics
 
-All my project about analysing data using daya analytics algorithm
+All my project about analysing data using data analytics algorithm
